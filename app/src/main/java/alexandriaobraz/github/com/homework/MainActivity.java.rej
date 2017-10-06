@@ -1,0 +1,8 @@
+diff a/app/src/main/java/alexandriaobraz/github/com/homework/MainActivity.java b/app/src/main/java/alexandriaobraz/github/com/homework/MainActivity.java	(rejected hunks)
+@@ -13,5 +13,6 @@
+ +<<<<<<< HEAD
+ +        //create conflict 2
+ +=======
+++>>>>>>> parent of ed8da05... some changes in branch
+      }
+  }
