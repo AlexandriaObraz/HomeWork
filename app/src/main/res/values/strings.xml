@@ -1,4 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">HomeWork</string>
     <string name="TextView1">Hello Epam!</string>
+=======
+    <string name="app_name">Home Work</string>
+>>>>>>> feature_1
 </resources>

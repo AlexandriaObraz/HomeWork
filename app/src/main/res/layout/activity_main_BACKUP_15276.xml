@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context="alexandriaobraz.github.com.homework.MainActivity">
 
-    <TextView
         <CalendarView
         android:layout_width="wrap_content"
 <<<<<<< HEAD
