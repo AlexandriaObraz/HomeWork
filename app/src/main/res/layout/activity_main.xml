@@ -18,6 +18,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 =======
         android:layout_height="wrap_content"></CalendarView>
+<<<<<<< HEAD
 >>>>>>> feature_1
+=======
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Epam!"/>
+>>>>>>> 5b1640e... add branh "feature_2"
 
 </android.support.constraint.ConstraintLayout>
