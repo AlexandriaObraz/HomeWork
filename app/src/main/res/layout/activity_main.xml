@@ -6,8 +6,9 @@
     android:layout_height="match_parent"
     tools:context="alexandriaobraz.github.com.homework.MainActivity">
 
-        <CalendarView
+        <CalendarView android:id="@+id/a"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"></CalendarView>
+
 
 </android.support.constraint.ConstraintLayout>
